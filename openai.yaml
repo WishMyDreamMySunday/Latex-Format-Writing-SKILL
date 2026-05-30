@@ -1,0 +1,7 @@
+interface:
+  display_name: "LaTeX Format Writing"
+  short_description: "Format formulas and symbols with LaTeX."
+  default_prompt: "Use $latex-format-writing to format formulas, variables, and mathematical symbols with LaTeX."
+
+policy:
+  allow_implicit_invocation: true
