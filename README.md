@@ -1,0 +1,2 @@
+# Latex-Format-Writing-SKILL
+这是一个解决写作中遇到数学公式等特殊字符，如何快速大量的从LaTeX格式渲染为正确公式的SKILL，可用于解决复制粘贴网页的数学公式时出现乱码的问题。同时，你可以自己阅读README.md，这个SKILL不一定必须借助Codex，其实手动操作也并不麻烦
